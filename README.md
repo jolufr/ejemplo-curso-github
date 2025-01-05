@@ -1,2 +1,2 @@
-# ejemplo-curso
+# Mi primer README
 Repositorio para practica
